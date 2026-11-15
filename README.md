@@ -8,12 +8,7 @@
 
 The model writes inline `[n]` citations after fine-tuning. An NLI attribution system then checks those citations, so "did it improve?" gets a number instead of a vibe.
 
-<br/>
 
-[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/SgtSzySUqgc)
-&nbsp;
-
-<br/>
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
