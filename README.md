@@ -157,7 +157,6 @@ colab_pipeline/
 
 The model trained here is the generator inside **X-RAG**, a full explainable-RAG engine — live web retrieval, a LangGraph retry loop, hybrid FAISS search, the works.
 
-> The whole system: [**X-RAG — Explainable RAG with Llama-3.1-8B**](https://github.com/SKT799/XRAG-Explainable-RAG-Llama8B)
 
 <div align="center">
 
